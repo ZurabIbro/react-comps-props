@@ -1,0 +1,11 @@
+a{
+    text-decoration: none;
+    color: rgb(109, 109, 11);
+}
+.mainApp{
+    width: 90%;
+    margin: auto;
+}
+hr{
+    opacity: 35%;
+}
